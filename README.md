@@ -1,1 +1,1 @@
-# Rainforest_Email_Project
+# Rainforest_Email_Project (Portfolio project)
